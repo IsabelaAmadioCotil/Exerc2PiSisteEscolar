@@ -1,3 +1,4 @@
 Encontrar objetos perdidos;
 Captar dados escolares de alunos e professores;
 Ver notas do boletim
+Ver faltas
